@@ -13,15 +13,15 @@ An end-to-end Data Science pipeline that fetches, processes, and visualizes real
 
 ### 1. Calorie Ranking (Bar Chart)
 Shows a comparative analysis of energy content across different fruits.
-![Sunburst Chart](images/image1.png)
+![Sunburst Chart](image1.png)
 
 ### 2. Nutritional Hierarchy (Sunburst Chart)
 Visualizes the biological taxonomy (Family > Genus > Species) color-coded by sugar levels.
-![Bar chart](images/image2.png)
+![Bar chart](image2.png)
 
 ### 3. Nutrient Correlation (Scatter Plot)
 Analyzes the relationship between Sugar and Carbohydrates.
-![Scatter Plot](images/image3.png)
+![Scatter Plot](image3.png)
 
 
 ## Tech Stack
