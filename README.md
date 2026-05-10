@@ -11,15 +11,15 @@ An end-to-end Data Science pipeline that fetches, processes, and visualizes real
 ##  Visualizations
 
 ### 1. Calorie Ranking (Bar Chart)
-Analyzes the  Nutrition Correlationr between Sugar and Carbohydrates
-![Sunburst Chart](image1.png)
+**Analyzes the  Nutrition Correlationr between Sugar and Carbohydrates**
+![correlation](image1.png)
 
 ### 2. Nutritional Hierarchy (Sunburst Chart)
-Visualizes the biological taxonomy (Family > Genus > Species) color-coded by sugar levels.
+**Visualizes the biological taxonomy (Family > Genus > Species) color-coded by sugar levels.**
 ![Bar chart](image2.png)
 
 ### 3. Nutrient Correlation (Scatter Plot)
-Analyzes the relationship between Sugar and Carbohydrates.
+**Analyzes the relationship between Sugar and Carbohydrates.**
 ![Scatter Plot](image3.png)
 
 
