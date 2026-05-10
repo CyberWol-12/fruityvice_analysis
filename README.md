@@ -11,7 +11,7 @@ An end-to-end Data Science pipeline that fetches, processes, and visualizes real
 ##  Visualizations
 
 ### 1. Calorie Ranking (Bar Chart)
-Shows a comparative analysis of energy content across different fruits.
+Analyzes the  Nutrition Correlationr between Sugar and Carbohydrates
 ![Sunburst Chart](image1.png)
 
 ### 2. Nutritional Hierarchy (Sunburst Chart)
