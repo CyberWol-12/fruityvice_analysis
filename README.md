@@ -29,6 +29,5 @@ Analyzes the relationship between Sugar and Carbohydrates.
 - **Libraries:** Pandas, Plotly, Requests
 - **Environment:** VS Code / Jupyter
 
-
-
-**Developed by Divya** |
+## Author :-
+**Divya😊**
