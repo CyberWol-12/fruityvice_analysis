@@ -1,13 +1,12 @@
-# 🍎 Fruit-O-Meter: Nutritional Analytics Engine
+# Fruit-O-Meter: Nutritional Analytics Engine
 
 An end-to-end Data Science pipeline that fetches, processes, and visualizes real-time nutritional data from the **Fruityvice REST API**.
 
-## 🚀 Key Features
+##  Key Features
 - **Live API Integration:** Real-time data fetching using `requests`.
 - **Data Engineering:** Nested JSON normalization using `Pandas`.
 - **Interactive Dashboards:** Senior-level visualizations using `Plotly`.
 
----
 
 ##  Visualizations
 
